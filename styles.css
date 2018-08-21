@@ -1,0 +1,11 @@
+h1 {
+  color: purple;
+  font-size: 5em;
+}
+
+p {
+  border: 3px solid grey;
+  background-color: pink;
+  text-align: center;
+  margin: 0;
+}
